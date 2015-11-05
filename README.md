@@ -10,3 +10,5 @@ A Fantastic List for OIers and ICPCers.
 [What is the fastest substring search algorithm?](http://stackoverflow.com/questions/3183582/what-is-the-fastest-substring-search-algorithm)
 
 [偏序集-Dilworth定理](http://blog.csdn.net/xuzengqiang/article/details/7266034)
+
+http://www.cnblogs.com/oyking/p/3258723.html
