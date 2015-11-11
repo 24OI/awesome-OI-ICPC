@@ -1,10 +1,14 @@
 # awesome-OI-ICPC
-A Fantastic List for OIers and ICPCers.
 
-  <a href="#en-US">en-US</a>
-  <a href="#zh-CN">zh-CN</a>
+Multi-Languages **(Note that the contents in the resources might not be translated thoroughly**:
+  <a href="#en-us">en-US</a>
+  <a href="#zh-cn">zh-CN</a>
 
 ##en-US
+
+A Fantastic List for OIers and ICPCers.
+
+Hope the history in Git records the history of OI and ICPC.
 
 [ACM-ICPC Code by GXX](http://git.icpc-camp.org/ftiasch/acm-icpc)
 
@@ -16,6 +20,8 @@ A Fantastic List for OIers and ICPCers.
 
 [偏序集-Dilworth定理](http://blog.csdn.net/xuzengqiang/article/details/7266034)
 
-[Library](lib)
-
 ##zh-CN
+
+这是一份给OIer和ICPCer的清单。
+
+希望Git的历史能够记录OI和ICPC的发展。
