@@ -1,4 +1,4 @@
-# awesome-OI-ICPC
+# awesome-OI-ICPC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/24OI/awesome-OI-ICPC)
 
 Multi-Languages **(Note that the contents in the resources might not be translated thoroughly**:
   <a href="#en-us">en-US</a>
