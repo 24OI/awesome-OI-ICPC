@@ -12,3 +12,7 @@ A Fantastic List for OIers and ICPCers.
 [偏序集-Dilworth定理](http://blog.csdn.net/xuzengqiang/article/details/7266034)
 
 http://www.cnblogs.com/oyking/p/3258723.html
+
+https://github.com/progit/progit2
+
+https://github.com/progit/progit2-zh
