@@ -20,6 +20,8 @@ Hope the history in Git records the history of OI and ICPC.
 
 [gcc_five_minutes by github.com/lexdene/gcc_five_minute](https://github.com/24OI/gcc_five_minute)
 
+[Github's Git tutorial](https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training)
+
 ##zh-CN
 
 这是一份给OIer和ICPCer的清单。
@@ -35,3 +37,5 @@ Hope the history in Git records the history of OI and ICPC.
 [搜索子串最快的算法是什么？](http://stackoverflow.com/questions/3183582/what-is-the-fastest-substring-search-algorithm)
 
 [gcc五分钟系列 by github.com/lexdene/gcc_five_minute](https://github.com/24OI/gcc_five_minute)
+
+[Github的Git教程](https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training)
