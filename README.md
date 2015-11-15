@@ -16,3 +16,5 @@ http://www.cnblogs.com/oyking/p/3258723.html
 https://github.com/progit/progit2
 
 https://github.com/progit/progit2-zh
+
+https://github.com/isocpp/CppCoreGuidelines
