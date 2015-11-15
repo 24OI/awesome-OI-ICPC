@@ -39,3 +39,7 @@ Hope the history in Git records the history of OI and ICPC.
 [gcc五分钟系列 by github.com/lexdene/gcc_five_minute](https://github.com/24OI/gcc_five_minute)
 
 [Github的Git教程](https://github.com/blog/2083-start-learning-git-and-github-today-with-self-paced-training)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/24OI/awesome-oi-icpc/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
