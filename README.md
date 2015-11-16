@@ -20,3 +20,5 @@ https://github.com/proit/progit2-zh
 https://github.com/isocpp/CppCoreGuidelines
 
 http://www.oschina.net/translate/10-tips-git-next-level
+
+https://github.com/algorhythms/Algo-Quicksheet
