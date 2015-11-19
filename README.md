@@ -22,3 +22,5 @@ https://github.com/isocpp/CppCoreGuidelines
 http://www.oschina.net/translate/10-tips-git-next-level
 
 https://github.com/algorhythms/Algo-Quicksheet
+
+http://www.zhihu.com/question/23764267/answer/26007647
