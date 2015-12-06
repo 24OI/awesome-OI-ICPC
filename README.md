@@ -26,3 +26,5 @@ https://github.com/algorhythms/Algo-Quicksheet
 http://www.zhihu.com/question/23764267/answer/26007647
 
 https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+
+>* Many coders ask me how to improve their own performances. I cannot say anything except "solve and review and prepare your library". -- uwi
